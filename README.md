@@ -1,2 +1,2 @@
-# GoogleCloudComputingFoundations
-Laboratorios de desafío de GCCF.
+# Create and Manage Cloud Resources
+Laboratorios de desafío 1 de GCCF.
